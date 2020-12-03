@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RuTa6/2captcha/issues"
   },
-  "homepage": "https://github.com/RuTa6/2captcha#readme"
+  "homepage": "https://github.com/RuTa6/2captcha#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
 }
